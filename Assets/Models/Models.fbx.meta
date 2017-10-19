@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 2e53e210c1107ea42b8467e88339abd7
+timeCreated: 1499293334
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Page_Righ0
+    100004: Page_Right
+    100006: TankPlayer
+    100008: T-55_Towe0
+    100010: T-55_Tower
+    100012: Tank_Body0
+    100014: Tank_Body_
+    100016: Tank_T-640
+    100018: Tank_T-641
+    100020: Tank_T-642
+    100022: Tank_T-64_
+    400000: //RootNode
+    400002: Page_Righ0
+    400004: Page_Right
+    400006: TankPlayer
+    400008: T-55_Towe0
+    400010: T-55_Tower
+    400012: Tank_Body0
+    400014: Tank_Body_
+    400016: Tank_T-640
+    400018: Tank_T-641
+    400020: Tank_T-642
+    400022: Tank_T-64_
+    2300000: Page_Righ0
+    2300002: Page_Right
+    2300004: TankPlayer
+    2300006: T-55_Towe0
+    2300008: T-55_Tower
+    2300010: Tank_Body0
+    2300012: Tank_Body_
+    2300014: Tank_T-640
+    2300016: Tank_T-641
+    2300018: Tank_T-642
+    2300020: Tank_T-64_
+    3300000: Page_Righ0
+    3300002: Page_Right
+    3300004: TankPlayer
+    3300006: T-55_Towe0
+    3300008: T-55_Tower
+    3300010: Tank_Body0
+    3300012: Tank_Body_
+    3300014: Tank_T-640
+    3300016: Tank_T-641
+    3300018: Tank_T-642
+    3300020: Tank_T-64_
+    4300000: Page_Right
+    4300002: Page_Righ0
+    4300004: TankPlayer
+    4300006: Tank_Body_
+    4300008: T-55_Tower
+    4300010: T-55_Towe0
+    4300012: Tank_Body0
+    4300014: Tank_T-64_
+    4300016: Tank_T-640
+    4300018: Tank_T-641
+    4300020: Tank_T-642
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
